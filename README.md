@@ -1,16 +1,15 @@
 <h1 align="center">Heyyy 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&height=50&lines=Welcome+to+my+profile!;Desarrollador+y+Creador;Explorando+el+código+cada+día" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/nyancat.gif" width="100%">
 </p>
 
 ---
 
 ### 💻 About Me
 
-- 🔭 Trabajo en proyectos web y herramientas digitales.
-- 🌱 Aprendiendo nuevas tecnologías y optimizando flujos de desarrollo.
 - ⚡ Amante de la tecnología, la personalización y la programación.
+- 🌱 Aprendiendo y explorando nuevas herramientas cada día.
 
 ---
 
@@ -32,4 +31,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luisequeira612-commits&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisequeira612-commits&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
