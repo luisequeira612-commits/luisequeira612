@@ -4,9 +4,6 @@
   <strong>Desarrollo web · Tecnología · Aprendizaje continuo</strong>
 </p>
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/-I3N_hLI1Z8AAAAd/shukaku-anime.gif" alt="Shukaku, la bestia de una cola de Naruto" width="100%">
-</p>
 
 ---
 
