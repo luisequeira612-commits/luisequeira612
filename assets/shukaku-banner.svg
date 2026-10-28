@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs>
+ <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#171310"/><stop offset=".55" stop-color="#70401f"/><stop offset="1" stop-color="#d58b43"/></linearGradient>
+ <linearGradient id="sand" x2="0" y2="1"><stop stop-color="#d49a56"/><stop offset="1" stop-color="#5d321b"/></linearGradient>
+ <radialGradient id="sun"><stop stop-color="#f7cf8b" stop-opacity=".85"/><stop offset="1" stop-color="#e9a34e" stop-opacity="0"/></radialGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="16"/></filter>
+</defs>
+<rect width="1200" height="360" fill="url(#sky)"/>
+<circle cx="330" cy="105" r="130" fill="url(#sun)"/>
+<g fill="#241811" opacity=".7"><path d="M0 170 75 116 130 154 205 88 280 156 335 132 420 190 500 151 565 188 640 142 710 187 790 135 860 176 950 121 1040 173 1125 118 1200 155V360H0Z"/></g>
+<path d="M0 263 Q170 220 330 270 T650 252 T950 260 T1200 225V360H0Z" fill="#8b5129"/>
+<path d="M0 304 Q230 260 430 305 T810 290 T1200 278V360H0Z" fill="url(#sand)"/>
+<g transform="translate(500 8)">
+ <!-- huge curling sand tails -->
+ <path d="M210 184 Q60 135 110 34 Q138 -12 190 22 Q220 44 194 73 Q174 91 157 72 Q147 60 161 52 Q110 53 132 102 Q150 140 242 142Z" fill="#9c6333" stroke="#3b261b" stroke-width="9"/>
+ <path d="M385 184 Q510 120 470 48 Q449 7 415 34 Q393 53 418 72 Q437 85 449 66 Q461 54 447 49 Q489 69 451 112 Q430 139 365 146Z" fill="#b57a3e" stroke="#3b261b" stroke-width="9"/>
+ <!-- body -->
+ <path d="M138 298 Q108 244 134 190 Q150 149 202 132 L227 91 263 122 307 80 339 121 381 105 408 146 Q454 169 453 225 L481 292 433 322 169 322Z" fill="#b57b3e" stroke="#302019" stroke-width="10" stroke-linejoin="round"/>
+ <!-- ears/horns -->
+ <path d="M170 160 143 103 207 132 M369 143 415 91 406 163" fill="#a76b34" stroke="#302019" stroke-width="10" stroke-linejoin="round"/>
+ <!-- face -->
+ <path d="M184 166 Q228 143 264 167 L244 193 199 193Z M313 166 Q354 142 394 166 L376 193 329 193Z" fill="#1b1715"/>
+ <path d="M198 171 240 174 224 183Z M330 174 375 170 350 184Z" fill="#f2c56f"/>
+ <path d="M221 211 Q287 193 356 211 L340 262 Q291 285 242 261Z" fill="#241714" stroke="#3b2117" stroke-width="7"/>
+ <path d="M232 214 254 217 248 234Z M268 210 288 211 281 233Z M309 211 329 214 318 234Z M338 214 350 215 340 233Z" fill="#e5c28b"/>
+ <!-- markings -->
+ <g fill="none" stroke="#2a1c16" stroke-width="13" stroke-linecap="round"><path d="M160 207 Q184 226 166 247"/><path d="M395 204 Q373 224 395 247"/><path d="M261 132 Q280 150 300 132"/><path d="M279 274 Q299 290 318 274"/></g>
+</g>
+<!-- dust streaks -->
+<g fill="none" stroke="#efb56d" stroke-width="3" opacity=".6"><path d="M25 236 Q190 212 360 235"/><path d="M45 248 Q215 230 390 250"/><path d="M810 315 Q990 286 1170 304"/><path d="M740 329 Q920 309 1100 326"/></g>
+<rect x="1.5" y="1.5" width="1197" height="357" fill="none" stroke="#d99b58" stroke-opacity=".35" stroke-width="3"/>
+</svg>
