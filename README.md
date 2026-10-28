@@ -4,6 +4,9 @@
   <strong>Desarrollo web · Tecnología · Aprendizaje continuo</strong>
 </p>
 
+<p align="center">
+  <img src="assets/file_000000003ea081f4b96781a0d5be3549.png" width="100%" alt="Shukaku, la bestia de una cola, en una tormenta de arena">
+</p>
 
 ---
 
