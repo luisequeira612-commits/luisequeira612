@@ -12,9 +12,7 @@
 
 ### 👨‍💻 Sobre mí
 
-- Me apasiona la tecnología, la programación y crear experiencias digitales útiles.
-- Estoy aprendiendo y mejorando continuamente mis habilidades de desarrollo.
-- Me gusta experimentar con proyectos prácticos y convertir ideas en soluciones.
+Soy apasionado por la tecnología y la programación.
 
 ### 🧰 Languages & Tools
 
