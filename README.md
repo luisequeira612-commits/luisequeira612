@@ -1,4 +1,4 @@
-<h1 align="center">Luis Equeira</h1>
+<h1 align="center">Luis Sequeira</h1>
 
 <p align="center">
   <strong>Desarrollo web · Tecnología · Aprendizaje continuo</strong>
