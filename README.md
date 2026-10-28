@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/4m-xO6Bz_ysAAAAd/naruto-gaara.gif" alt="Gaara de Naruto y su arena" width="100%">
+  <img src="https://media1.tenor.com/m/-I3N_hLI1Z8AAAAd/shukaku-anime.gif" alt="Shukaku, la bestia de una cola de Naruto" width="100%">
 </p>
 
 ---
