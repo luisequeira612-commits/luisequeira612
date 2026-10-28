@@ -4,10 +4,6 @@
   <strong>Desarrollo web · Tecnología · Aprendizaje continuo</strong>
 </p>
 
-<p align="center">
-  <img src="assets/shukaku-banner.svg" alt="Banner de Shukaku en el desierto" width="100%">
-</p>
-
 
 ---
 
