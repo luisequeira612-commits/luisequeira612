@@ -22,14 +22,14 @@ Soy apasionado por la tecnología y la programación.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
-### 📊 GitHub Statistics
+### 🏜️ GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisequeira612-commits&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics">
+  <img src="https://github-readme-stats.vercel.app/api?username=luisequeira612-commits&show_icons=true&hide_border=true&rank_icon=github&bg_color=15110F&title_color=E6B566&icon_color=C75B39&text_color=D9C7A3" alt="GitHub statistics — Gaara sand theme">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisequeira612-commits&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisequeira612-commits&layout=compact&hide_border=true&bg_color=15110F&title_color=E6B566&text_color=D9C7A3" alt="Most used languages — Gaara sand theme">
 </p>
 
 ---
