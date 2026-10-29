@@ -25,11 +25,11 @@ Soy apasionado por la tecnología y la programación.
 ### 🏜️ GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisequeira612-commits&show_icons=true&hide_border=true&rank_icon=github&bg_color=15110F&title_color=E6B566&icon_color=C75B39&text_color=D9C7A3" alt="GitHub statistics — Gaara sand theme">
+  <img src="https://github-stats-extended.vercel.app/api?username=luisequeira612-commits&show_icons=true&hide_border=true&rank_icon=github&bg_color=15110F&title_color=E6B566&icon_color=C75B39&text_color=D9C7A3&cache_seconds=86400" alt="GitHub statistics — Gaara sand theme">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisequeira612-commits&layout=compact&hide_border=true&bg_color=15110F&title_color=E6B566&text_color=D9C7A3" alt="Most used languages — Gaara sand theme">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=luisequeira612-commits&layout=compact&hide_border=true&bg_color=15110F&title_color=E6B566&text_color=D9C7A3&cache_seconds=86400" alt="Most used languages — Gaara sand theme">
 </p>
 
 ---
